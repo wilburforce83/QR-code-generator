@@ -44,4 +44,4 @@ After running the application, you will see QR code images for each URL in the `
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
